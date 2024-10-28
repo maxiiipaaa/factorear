@@ -16,3 +16,9 @@ El factorial de 0 se define como 1:
 Resumen:
 
 El factorial de un número nn es el producto de todos los números enteros positivos hasta nn.
+
+El factorial de 5 (denotado como 5!5!) se calcula así:
+5!=5×4×3×2×1=120
+5!=5×4×3×2×1=120
+
+Por lo tanto, el factorial de 5 es 120.
