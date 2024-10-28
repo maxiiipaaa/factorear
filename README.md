@@ -1,18 +1,18 @@
-# factorear
-Para factorizar un número, descomponlo en sus factores primos:
-Pasos:
+# factorial
+El factorial de un número nn (denotado como n!n!) es el producto de todos los enteros positivos desde 1 hasta nn. Se define así:
+Fórmula:
+n!=n×(n−1)×(n−2)×…×1
+n!=n×(n−1)×(n−2)×…×1
+Ejemplo:
 
-    Comienza con el número.
-    Divide por el primer número primo (2). Si es divisible, anota el factor y sigue dividiendo.
-    Pasa al siguiente primo (3, 5, etc.) y repite hasta llegar a 1.
+Para calcular el factorial de 5:
+5!=5×4×3×2×1=120
+5!=5×4×3×2×1=120
+Nota:
 
-Ejemplo: 60
+El factorial de 0 se define como 1:
+0!=1
+0!=1
+Resumen:
 
-    60 ÷ 2 = 30 (Factor: 2)
-    30 ÷ 2 = 15 (Factor: 2)
-    15 ÷ 3 = 5 (Factor: 3)
-    5 es primo (Factor: 5)
-
-Resultado:
-
-Factores primos de 60: 22×31×5122×31×51 o 2, 2, 3, y 5.
+El factorial de un número nn es el producto de todos los números enteros positivos hasta nn.
